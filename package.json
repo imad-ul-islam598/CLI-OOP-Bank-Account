@@ -1,0 +1,21 @@
+{
+  "name": "imk-oop-bank-app",
+  "version": "1.0.0",
+  "description": "This is a CLI based OOP Bank App Project. This project is developed by Imad Ul Islam. Run this Command on your CMD for testing 'npx imk-oop-bank-app'",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "IMAD UL ISLAM",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^22.5.0"
+  }
+}
